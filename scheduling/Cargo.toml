@@ -1,0 +1,17 @@
+[package]
+name = "scheduling"
+version = "0.1.0"
+authors = ["Rafael Castillo <rafael@trfs.me>"]
+
+[dependencies]
+serde = "1.0"
+serde_derive = "1.0"
+serde_json = "1.0"
+
+gtk = "^0.5.0"
+relm = "^0.15.0"
+relm-derive = "^0.15.0"
+
+log = "0.4.0"
+env_logger = "0.5.13"
+

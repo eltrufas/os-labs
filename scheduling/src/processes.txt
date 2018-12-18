@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "start_time": 0,
+    "duration": 4,
+    "priority": 1
+  },
+  {
+    "id": 2,
+    "start_time": 1,
+    "duration": 4,
+    "priority": 1
+  }
+]
